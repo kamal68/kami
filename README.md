@@ -1,0 +1,3 @@
+# kami
+sport
+movi
